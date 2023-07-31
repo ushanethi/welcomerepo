@@ -7,6 +7,7 @@ class FactorialExample{
       fact=fact*i;    
   }    
   System.out.println("Factorial of "+number+" is: "+fact);  
-  System.out.println("Bye");  
+  System.out.println("Bye"); 
+  System.out.println("Start");  
  }  
 }  
